@@ -1,1 +1,1 @@
-# deeplearning-projects
+# deeplearning-projects: courses and mini-projects
